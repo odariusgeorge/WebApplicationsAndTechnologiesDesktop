@@ -1,0 +1,14 @@
+{
+    "name": "desktop",
+    "main": "main",
+    "dependencies": {
+        "electron-packager": "^14.2.1"
+    },
+    "private": true,
+    "scripts": {
+        "start": "electron"
+    },
+    "devDependencies": {
+        "electron": "^8.3.0"
+    }
+}
